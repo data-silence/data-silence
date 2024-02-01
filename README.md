@@ -57,23 +57,3 @@
 </td></tr> 
 
 </table>
-
-### 📕 About:
-* 👨‍🎓 Educated Data Science & ML Engineering @ [HSE, CS](https://cs.hse.ru/en/) 
-* ⛏️ Building new ML and NLP tools for media and related
-* 🔎 Looking for a job
-
-
-<details>
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=data-silence&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=data-silence&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=data-silence&theme=dracula)
-
-
-<br>
-</details>
