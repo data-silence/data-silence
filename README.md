@@ -30,7 +30,7 @@
 
 </p>
 
-### 📚 Projects:
+### 📚 key projects:
 <table>
 <tr><th>MVP Ready and Open-Source</th></tr>
 <tr><td>
