@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/data-silence/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:enjoy@data-silence.xyz">
+<a href="mailto:enjoy-ds@pm.me">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
