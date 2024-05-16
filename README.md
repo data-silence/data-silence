@@ -31,8 +31,8 @@
 
 ### 📚 Key MVP project:
 
-<table>                                     
-<tr><th ><a href="https://github.com/data-silence/antiSMI-Project">AntiSMI Project</a> </th></tr> 
+                               
+<table>
 
 | <a href="https://github.com/data-silence/antiSMI-Project"><b>AntiSMI Project</b></a>                                                                                  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
