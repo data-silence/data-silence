@@ -5,7 +5,7 @@
 <br/>
 
 <a href="http://data-silence.com">
-    <img src="https://img.shields.io/badge/data--silense.com-blue?style=flat-square&logo=Google Home&logoColor=white">
+    <img src="https://img.shields.io/badge/data--silense.com-blue?style=flat-square&logo=googlehome&logoColor=white">
 </a>
 <a href="https://github.com/data-silence/Study/blob/master/0%20-%20Diploma%20and%20sertificates/2023%20resume/CV%20(Max%20K%2C%20DS).pdf">
     <img src="https://img.shields.io/badge/CV-red?style=flat-square&logo=adobe">
