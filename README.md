@@ -45,9 +45,13 @@
 
 <table> 
 <tr>
+    <td colspan="3" align="center">Links & Stack</td>
+
+</tr>
+<tr>
     <td>App</td>
     <td>Repo link</td>
-    <td>Covered tasks</td>
+    <td align="center">Covered tasks</td>
 </tr>
 <tr>
     <td><a href="http://api.data-silence.com">Backend</a></td>
