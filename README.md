@@ -29,7 +29,7 @@
 
 </p>
 
-### 📚 Key MVP project:
+### 📚 Key project:
 
                                
 <table>
