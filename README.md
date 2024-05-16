@@ -33,7 +33,7 @@
                                
 <table>
 
-| <a href="https://github.com/data-silence/antiSMI-Project"><b>📰 <font color=fc791e>"AntiSMI Project</font></b></a>                                                    |
+| 📰 <a href="https://github.com/data-silence/antiSMI-Project"><b><font color=fc791e>AntiSMI Project</font></b></a>                                                     |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Explores and creates new ways of working with news for readers, journalists and researchers. Give you only the tools you need, the conclusions are always left to you |
 
