@@ -56,7 +56,7 @@
 <tr>
     <td><a href="http://api.data-silence.com">Backend</a></td>
     <td><a href="https://github.com/data-silence/antiSMI-backend">Backend API</a></td>
-    <td rowspan="5">Data Scrapping - Data Preparing - Data storaging - EDA - ML models cooking - Classification - Clustering - Summarization -  Vector db -  Similarity search -  API - Web App - Bots -  CI/CD - Access control -  Dashboards Analytic - Visualize</td>
+    <td rowspan="5">Data Scrapping - Data Validation - Data storaging - EDA - ML models cooking - Classification - Clustering - Summarization -  Vector db -  Similarity search -  API - Web App - Bots -  CI/CD - Access control -  Dashboards Analytic - Visualize</td>
 </tr>
 <tr>
     <td><a href="http://news.data-silence.com">Web App</a></td>
