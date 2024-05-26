@@ -54,12 +54,12 @@
     <td align="center">Covered tasks</td>
 </tr>
 <tr>
-    <td><a href="http://api.data-silence.com">Backend</a></td>
+    <td><a href="http://api.anti-smi.com">Backend</a></td>
     <td><a href="https://github.com/data-silence/antiSMI-backend">Backend API</a></td>
     <td rowspan="5">Data Scrapping - Data Validation - Data storaging - EDA - ML models cooking - Classification - Clustering - Summarization -  Vector db -  Similarity search -  API - Web App - Bots -  CI/CD - Access control -  Dashboards Analytic - Visualize</td>
 </tr>
 <tr>
-    <td><a href="http://news.data-silence.com">Web App</a></td>
+    <td><a href="http://news.anti-smi.com">Power news</a></td>
     <td><a href="https://github.com/data-silence/antiSMI-app">Frontend App</a></td>
 </tr>
 <tr>
