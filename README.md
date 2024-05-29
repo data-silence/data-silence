@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://data-silence.com">
-    <img src="https://img.shields.io/badge/data--silense.com-blue?style=flat-square&logo=googlehome&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=googlehome&logoColor=white">
 </a>
 <a href="https://www.overleaf.com/project/6506bded956cfc29aea3a85a">
     <img src="https://img.shields.io/badge/CV-red?style=flat-square&logo=adobe">
@@ -54,13 +54,13 @@
     <td align="center">Covered tasks</td>
 </tr>
 <tr>
-    <td><a href="http://api.anti-smi.com">Backend</a></td>
-    <td><a href="https://github.com/data-silence/antiSMI-backend">Backend API</a></td>
-    <td rowspan="5">Data Scrapping - Data Validation - Data storaging - EDA - ML models cooking - Classification - Clustering - Summarization -  Vector db -  Similarity search -  API - Web App - Bots -  CI/CD - Access control -  Dashboards Analytic - Visualize</td>
-</tr>
-<tr>
     <td><a href="http://news.anti-smi.com">Power news</a></td>
     <td><a href="https://github.com/data-silence/antiSMI-app">Frontend App</a></td>
+    <td rowspan="6">Data Scrapping - Data Validation - Data storaging - EDA - ML models cooking - Classification - Clustering - Summarization -  Vector db -  Similarity search -  API - Web App - Bots -  CI/CD - Access control -  Dashboards Analytic - Visualize</td>
+</tr>
+<tr>
+    <td><a href="http://api.anti-smi.com">Backend</a></td>
+    <td><a href="https://github.com/data-silence/antiSMI-backend">Backend API</a></td>
 </tr>
 <tr>
     <td><a href="https://t.me/antiSMI_bot">Nowadays</a></td>
@@ -69,6 +69,10 @@
 <tr>
     <td><a href="https://t.me/time_mashine_bot">Timemachine</a></td>
     <td><a href="https://github.com/data-silence/timemachine">Telegram Bot for past news</a></td>
+</tr>
+<tr>
+    <td><a href="http://observer.anti-smi.com/">Observer</a></td>
+    <td></td>
 </tr>
 <tr>
     <td>Collector</td>
