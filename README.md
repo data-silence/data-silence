@@ -7,7 +7,7 @@
 <a href="https://data-silence.com">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=googlehome&logoColor=white">
 </a>
-<a href="https://www.overleaf.com/project/6506bded956cfc29aea3a85a">
+<a href="https://www.overleaf.com/read/zddtmmwfnhtg#48c36e">
     <img src="https://img.shields.io/badge/CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/data-silence/">
