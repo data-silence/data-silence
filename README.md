@@ -10,14 +10,11 @@
 <a href="https://www.overleaf.com/read/zddtmmwfnhtg#48c36e">
     <img src="https://img.shields.io/badge/CV-red?style=flat-square&logo=adobe">
 </a>  
-<a href="https://www.linkedin.com/in/data-silence/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
 <a href="mailto:enjoy-ds@pm.me">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=protonmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=protonmail&logoColor=white">
 </a>
 <a href="https://t.me/data_silence">
-    <img src="https://img.shields.io/badge/-@data__silence-blue?style=flat-square&logo=Telegram">
+    <img src="https://img.shields.io/badge/-@data__silence-red?style=flat-square&logo=Telegram">
 </a>
 
 
