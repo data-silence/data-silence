@@ -5,18 +5,17 @@
 <br/>
 
 <a href="https://data-silence.com">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=googlehome&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=sitepoint&logoColor=white">
 </a>
 <a href="https://www.overleaf.com/read/zddtmmwfnhtg#48c36e">
-    <img src="https://img.shields.io/badge/CV-red?style=flat-square&logo=adobe">
+    <img src="https://img.shields.io/badge/CV-red?style=flat-square&logo=adobe&logoColor=white">
 </a>  
-<a href="mailto:enjoy-ds@pm.me">
-    <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=protonmail&logoColor=white">
-</a>
 <a href="https://t.me/data_silence">
-    <img src="https://img.shields.io/badge/-@data__silence-red?style=flat-square&logo=Telegram">
+    <img src="https://img.shields.io/badge/-@data__silence-blue?style=flat-square&logo=Telegram&logoColor=white">
 </a>
-
+<a href="mailto:job@data-silence.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=protonmail&logoColor=white">
+</a>
 
 <br/> 
 
