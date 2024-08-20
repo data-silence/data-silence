@@ -19,7 +19,7 @@
 
 </a>
 <a href="https://github.com/data-silence">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&background=000000&size=14&color=FFFFFFFF&center=true&duration=2000&pause=100&multiline=true&width=500&height=50&lines=ML %7C NLP+%7C AI;Research %7C Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=14&color=FFFFFFFF&center=true&duration=2000&pause=100&multiline=true&width=500&height=50&lines=ML %7C NLP+%7C AI;Research %7C Development" alt="Typing SVG" />
 </a>
 
 <br/> 
