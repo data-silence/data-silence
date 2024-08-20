@@ -38,7 +38,7 @@ My personal area of interest is  applying NLP to develop new tools for interacti
 You can check out my finished products on my [portfolio website](https://data-silence.com/).
 
 
-<table style="width: 100%;">
+<table border="1" cellpadding="10" cellspacing="0" style="width: 100%;">
 
 
   <tr>
