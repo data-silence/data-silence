@@ -1,34 +1,92 @@
-<p align="center">
+<p align="center" style="display: inline-block; text-align: center;">
 
-<a href="https://github.com/data-silence">
+<a href="https://github.com/data-silence" style="display: inline-block; margin-bottom: 10px;">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=14&color=FFFFFFFF&center=true&duration=2000&pause=100&multiline=true&width=500&height=50&lines=ML%20%7C%20NLP%20%7C%20AI;Research%20%7C%20Development" alt="Typing SVG" />
 </a>
 
-<br/>
+<div style="text-align: center; margin-top: 10px;">
+    <a href="https://data-silence.com">
+        <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-black?style=flat-square&logo=home&logoSource=feather">
+    </a>
+    <a href="https://www.overleaf.com/read/zddtmmwfnhtg#48c36e">
+        <img src="https://custom-icon-badges.demolab.com/badge/CV-black?style=flat-square&logo=user&logoSource=feather">
+    </a>  
+    <a href="https://huggingface.co/data-silence">
+        <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-black">
+    </a>
+    <a href="https://t.me/data_silence">
+        <img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram&logoColor=white">
+    </a>
+    <a href="mailto:job@data-silence.com">
+        <img src="https://custom-icon-badges.demolab.com/badge/Email-black.svg?logo=mail&logoSource=feather">
+    </a>
+</div>
 
-<a href="https://data-silence.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-black?style=flat-square&logo=home&logoSource=feather">
-</a>
-<a href="https://www.overleaf.com/read/zddtmmwfnhtg#48c36e">
-    <img src="https://custom-icon-badges.demolab.com/badge/CV-black?style=flat-square&logo=user&logoSource=feather">
-</a>  
-<a href="https://huggingface.co/data-silence">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-black">
-</a>
-<a href="https://t.me/data_silence">
-    <img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram&logoColor=white">
-</a>
-<a href="mailto:job@data-silence.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/Email-black.svg?logo=mail&logoSource=feather">
-</a>
-
-<br/> 
-
-<a href="https://github.com/data-silence">
-  <img src="https://github-stats-alpha.vercel.app/api?username=data-silence&cc=000000&tc=FFFFFF&ic=fff&bc=000">
-</a>
+<div style="margin-top: 10px;">
+    <a href="https://github.com/data-silence">
+        <img src="https://github-stats-alpha.vercel.app/api?username=data-silence&cc=000000&tc=FFFFFF&ic=fff&bc=000">
+    </a>
+</div>
 
 </p>
+
+
+
+[//]: # (<p align="center">)
+
+[//]: # ()
+[//]: # (<a href="https://github.com/data-silence">)
+
+[//]: # (    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=14&color=FFFFFFFF&center=true&duration=2000&pause=100&multiline=true&width=500&height=50&lines=ML%20%7C%20NLP%20%7C%20AI;Research%20%7C%20Development" alt="Typing SVG" />)
+
+[//]: # (</a>)
+
+[//]: # ()
+[//]: # (<br/>)
+
+[//]: # ()
+[//]: # (<a href="https://data-silence.com">)
+
+[//]: # (    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-black?style=flat-square&logo=home&logoSource=feather">)
+
+[//]: # (</a>)
+
+[//]: # (<a href="https://www.overleaf.com/read/zddtmmwfnhtg#48c36e">)
+
+[//]: # (    <img src="https://custom-icon-badges.demolab.com/badge/CV-black?style=flat-square&logo=user&logoSource=feather">)
+
+[//]: # (</a>  )
+
+[//]: # (<a href="https://huggingface.co/data-silence">)
+
+[//]: # (    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-black">)
+
+[//]: # (</a>)
+
+[//]: # (<a href="https://t.me/data_silence">)
+
+[//]: # (    <img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram&logoColor=white">)
+
+[//]: # (</a>)
+
+[//]: # (<a href="mailto:job@data-silence.com">)
+
+[//]: # (    <img src="https://custom-icon-badges.demolab.com/badge/Email-black.svg?logo=mail&logoSource=feather">)
+
+[//]: # (</a>)
+
+[//]: # ()
+[//]: # (<br/> )
+
+[//]: # ()
+[//]: # (<a href="https://github.com/data-silence">)
+
+[//]: # (  <img src="https://github-stats-alpha.vercel.app/api?username=data-silence&cc=000000&tc=FFFFFF&ic=fff&bc=000">)
+
+[//]: # (</a>)
+
+[//]: # ()
+[//]: # (</p>)
 
 
 
