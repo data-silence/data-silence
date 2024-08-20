@@ -35,7 +35,7 @@ Hi! My name is Max and I research, design and develop systems based on modern ma
 
 My personal area of interest is the application of NLP to develop new tools for interacting with news media.
 
-You can check out my finished products in my [portfolio site](https://data-silence.com/).
+You can check out my finished products on my [portfolio website](https://data-silence.com/).
                             
 <table>
 
