@@ -31,64 +31,6 @@
 </p>
 
 
-
-[//]: # (<p align="center">)
-
-[//]: # ()
-[//]: # (<a href="https://github.com/data-silence">)
-
-[//]: # (    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=14&color=FFFFFFFF&center=true&duration=2000&pause=100&multiline=true&width=500&height=50&lines=ML %7C NLP+%7C AI;Research %7C Development" alt="Typing SVG" />)
-
-[//]: # (</a>)
-
-[//]: # ()
-[//]: # (<br/>)
-
-[//]: # ()
-[//]: # (<a href="https://data-silence.com">)
-
-[//]: # (    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-black?style=flat-square&logo=home&logoSource=feather">)
-
-[//]: # (</a>)
-
-[//]: # (<a href="https://www.overleaf.com/read/zddtmmwfnhtg#48c36e">)
-
-[//]: # (    <img src="https://custom-icon-badges.demolab.com/badge/CV-black?style=flat-square&logo=user&logoSource=feather">)
-
-[//]: # (</a>  )
-
-[//]: # (<a href="https://huggingface.co/data-silence">)
-
-[//]: # (    <img src="https://img.shields.io/badge/%F0%9F%A4%97 Hugging Face-black">)
-
-[//]: # (</a>)
-
-[//]: # (<a href="https://t.me/data_silence">)
-
-[//]: # (    <img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram&logoColor=white">)
-
-[//]: # (</a>)
-
-[//]: # (<a href="mailto:job@data-silence.com">)
-
-[//]: # (    <img src="https://custom-icon-badges.demolab.com/badge/Email-black.svg?logo=mail&logoSource=feather">)
-
-[//]: # (</a>)
-
-[//]: # ()
-[//]: # (<br/> )
-
-[//]: # ()
-[//]: # (<a href="https://github.com/data-silence">)
-
-[//]: # (  <img src="https://github-stats-alpha.vercel.app/api?username=data-silence&cc=000000&tc=FFFFFF&ic=fff&bc=000">)
-
-[//]: # (</a>)
-
-[//]: # ()
-[//]: # (</p>)
-
-
 Hi! My name is Max and I research, design and develop systems based on modern machine learning stack.
 
 My personal area of interest is the application of NLP to develop new tools for interacting with news media.
@@ -121,10 +63,10 @@ You can check out my finished products in my [portfolio site](https://data-silen
                 <li>✅ Data Validation</li>
                 <li>💾 Data Storage</li>
                 <li>📊 EDA</li>
-                <li>🤖 Training and Fine-tuning ML Models [Classification, Clustering, Summarization, etc]</li>
+                <li>🤖 Training and Fine-tuning ML Models: classification, clustering, summarization...</li>
                 <li>📚 Vector Databases and Search</li>
                 <li>🛠 API</li>
-                <li>💻 Web App</li>
+                <li>💻 Web Apps</li>
                 <li>🤖 Bots</li>
                 <li>🔄 CI/CD</li>
                 <li>🔒 Access control</li>
