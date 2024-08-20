@@ -22,11 +22,12 @@
     <img src="https://custom-icon-badges.demolab.com/badge/Email-black.svg?logo=mail&logoSource=feather">
 </a>
 
+<br/> 
+
 <a href="https://github.com/data-silence">
   <img src="https://github-stats-alpha.vercel.app/api?username=data-silence&cc=000000&tc=FFFFFF&ic=fff&bc=000">
 </a>
 
-<br/> 
 </p>
 
 
